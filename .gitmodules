@@ -1,0 +1,8 @@
+[submodule "Plugins/ArtB-MCP-Unreal"]
+	path = Plugins/ArtB-MCP-Unreal
+	url = https://github.com/Passoll/ArtB-MCP-Unreal.git
+	branch = main
+[submodule "Plugins/UnrealImGui"]
+	path = Plugins/UnrealImGui
+	url = https://github.com/IDI-Systems/UnrealImGui.git
+	branch = master

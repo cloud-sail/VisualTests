@@ -10,6 +10,8 @@ Plugins/*/Intermediate/
 Plugins/*/Saved/
 
 # IDE and editor generated files
+.codex/
+.venv-toolplay-mcp/
 .vs/
 .vscode/
 .idea/
@@ -24,6 +26,8 @@ Plugins/*/Saved/
 *.code-workspace
 
 # Build and debug artifacts
+__pycache__/
+*.pyc
 *.pdb
 *.ilk
 *.obj
